@@ -38,8 +38,9 @@ To enhance model performance, the code employs a 15-fold stratified cross-valida
 
 ## Flow Chart
 
-![Plot7](./img/ligandarch.png)
-
+<p align="center">
+  <img src="./img/ligandarch.png">
+</p>
 ## References
 
 - https://www.kaggle.com/code/ahsuna123/anusha-s-research-book-3d-visualization
