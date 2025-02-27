@@ -38,7 +38,7 @@ To enhance model performance, the code employs a 15-fold stratified cross-valida
 
 ## Flow Chart
 
-![Plot7](./img/mermaid-diagram-2025-02-27-130445.png)
+![Plot7](./img/ligandarch.png)
 
 ## References
 
