@@ -37,3 +37,7 @@ To enhance model performance, the code employs a 15-fold stratified cross-valida
 
 ![Plot7](./img/mermaid-diagram-2025-02-27-130445.png)
 
+## References
+
+- https://www.kaggle.com/code/ahsuna123/anusha-s-research-book-3d-visualization
+- https://www.kaggle.com/code/ahmedelfazouan/belka-1dcnn-starter-with-all-data
