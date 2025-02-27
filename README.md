@@ -1,6 +1,6 @@
 # **LigandNet**: Small Molecule-Protein Interactions Prediction Model 
 
-**Abstract**: *This is the solution of the [NeurIPS 2024 - Predict New Medicines with BELKA](https://www.kaggle.com/competitions/leash-BELKA/overview) which ranked 73rd out of 1950 teams*. 
+**Abstract**: *This code is the solution of the [NeurIPS 2024 - Predict New Medicines with BELKA](https://www.kaggle.com/competitions/leash-BELKA/overview) which ranked 73rd out of 1950 teams*. 
 
 The code implements a deep learning approach to predict small molecule-protein interactions using the BELKA dataset. The model is based on a 1D Convolutional Neural Network (1D-CNN) trained on SMILES representations of molecules to classify their binding affinity to protein targets. The dataset consists of molecular structures and their corresponding binary binding labels, obtained through DNA-encoded chemical library (DEL) technology.
 
